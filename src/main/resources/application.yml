@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: micronaut-memory-leak
+  server:
+    max-request-size: 1mb
